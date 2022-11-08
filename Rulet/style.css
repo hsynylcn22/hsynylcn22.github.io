@@ -1,0 +1,125 @@
+*{
+    color: wheat;
+}
+button{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    border: 2px solid rgb(213, 204, 188);
+}
+.btn{
+    width: 615px;
+
+   
+}
+#b0{
+    height: 120px;
+    float: left;
+}
+#b112{
+    width: 170px;
+  
+}
+#b1324{
+    width: 170px;
+    
+}
+#b2536{
+    width: 170px;
+    
+}
+#b118{
+    width: 80px;
+}
+#even{
+    width: 80px;
+}
+#kirmizi{
+    width: 80px;
+    background-color: red;
+
+}
+#siyah{
+    width: 80px;
+    background-color: black;
+}
+#odd{
+    width: 80px;
+}
+#b1936{
+    width: 80px;
+}
+.btn3{
+    margin-left: 50px;
+}
+.btn2{
+    margin-left: 40px;  
+}
+.secim{
+    width: 615px;
+    height: 200px;
+    border: 4px solid greenyellow;
+    
+
+}
+#z{
+    background-color: red;
+}
+#y{
+    background-color: black;
+}
+.kasa{
+    
+    text-align: center;
+    width: 200px;
+    height: 130px;
+    background-color: red;
+
+}
+h3{
+    color: white;
+    font-family: sans-serif;
+    
+}
+p{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#inp{
+    width: 90px;
+    color: black;
+}
+.ran{
+    text-align: center;
+    width: 200px;
+    height: 130px;
+    background-color: green;
+    float: right;
+  
+}
+.footer{
+    width: 615px;
+}
+.komple{
+width: 635px;
+border: 5px dashed green;
+height: 370px;
+background-color: gray;
+margin: auto;
+position: relative;
+margin-top: 50px;
+
+}
+#masa{
+    position: absolute;
+    width: 150px;
+    left: 225px;
+    bottom: 10px;
+    transition: all 5s ;
+}
+
+body{
+    background-color: wheat;
+}
