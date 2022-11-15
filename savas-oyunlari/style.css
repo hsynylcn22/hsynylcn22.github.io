@@ -1,0 +1,189 @@
+.komple{
+    background: url(arka2.jpg);
+   width: 2100px;
+   height: 130vh;
+ 
+}
+#askerkomple{
+   width: 320px;
+   height: 400px;
+    position: absolute;
+    
+}
+.cankenar{
+    height: 10px;
+    width: 120px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;}
+#can{
+    height: 10px;
+    width: 120px;
+    background-color: rgb(40, 215, 40);
+    border-radius: 2px;}
+ #silahefek{
+    height: 7px;
+    width: 130px;
+    background-color: red;
+    position: absolute;
+    top: 55px;
+    right: 0px;
+    border-radius: 10px;
+    transform: rotate(-20deg);
+    display: none;} 
+#c1{
+    position: absolute;
+    left: 200px;
+    display: none;
+    
+}
+#c2{
+    position: absolute;
+    left: 350px;
+    top: 500px;
+    
+}
+#c3{
+    position: absolute;
+    left: 600px;
+    top: 200px;
+    
+}
+#c4{
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    
+}
+#c5{
+    position: absolute;
+    left: 1100px;
+    top: 500px;
+    
+}
+#c6{
+    position: absolute;
+    left: 800px;
+    top: 300px;
+}
+#c7{
+    position: absolute;
+    left: 1300px;
+    top: 400px;
+    
+}
+#c8{
+    position: absolute;
+    left: 1200px;
+    
+}
+#c9{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    
+}
+
+#c10{
+    position: absolute;
+    left: 1600px;
+    top: 600px;
+    
+}
+#c11{
+    position: absolute;
+    left: 1700px;
+    top: 100px;
+    
+}
+#hapis{
+    position: absolute;
+    left: 1900px;
+    top: 300px;
+  
+}
+#kt{
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    position: absolute;
+    left: 1800px;
+    top: 240px;
+    cursor: pointer;
+    display: none;
+}
+#kt:hover{
+    background-color: rgb(64, 147, 64);
+    color: rgb(131, 166, 196);
+}
+#serbest{
+    position: absolute;
+    left: 1900px;
+    top: 200px;
+    display: none;
+    
+  
+}
+#demo{
+    width: 100px;
+    height: 70px;
+    border-radius: 50%;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: green;
+    color: white;
+    position: absolute;
+    left: 1800px;
+    top: 240px;
+    
+    display: none;
+}
+#bilgi{
+    width: 270px;
+    height: 260px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px black;
+    background-color: indigo;
+    position: absolute;
+    top: 40px;
+    left: 40%;
+    border: 5px solid red;
+    
+}
+#bilgi p{
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    
+}
+#sekil{
+    width: 100px;
+    height: 28px;
+    background-color: green;
+    position: absolute;
+    text-align: center;
+    line-height: 28px;
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    top: -15px;
+    left: 80px;
+    border-radius: 10px;
+    transform: rotate(10deg);
+
+}
+#say{
+    display: block;
+    font-size: 30px;
+}
