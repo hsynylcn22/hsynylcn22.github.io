@@ -1,0 +1,46 @@
+#komple{
+    background: url(arka2.jpg);
+    width: 1500px;height: 800px;
+    position: relative;
+}
+#askerkomple{
+    width: 320px;
+   height: 400px;
+    position: absolute;
+    
+}
+.cankenar{
+    height: 10px;
+    width: 120px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 20px;
+}
+#can{
+    height: 10px;
+    width: 120px;
+    background-color: rgb(40, 215, 40);
+    border-radius: 2px;
+
+   
+   
+}
+
+
+
+ #silahefek{
+    height: 7px;
+    width: 130px;
+    background-color: red;
+    position: absolute;
+    top: 55px;
+    right: 0px;
+    border-radius: 10px;
+    transform: rotate(-20deg);
+   
+    display: none;
+} 
+
+
+
+
