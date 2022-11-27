@@ -24,7 +24,7 @@ function uretme(){
     `<div id=${i}  style="width: 150px; left:1200px; height: 200px; position: absolute;  list-style-type: none;"><img src='düsmank kücük y.png'></img>  </div>`;i=i+1;
     
 
-if(i==3){clearInterval(uret)} 
+if(i==4){clearInterval(uret)} 
 }
 
 
